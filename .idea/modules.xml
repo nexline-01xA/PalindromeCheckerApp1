@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PalindromeCheckerApp.iml" filepath="$PROJECT_DIR$/PalindromeCheckerApp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/PALINDROMECHECKERAPP.iml" filepath="$PROJECT_DIR$/PALINDROMECHECKERAPP.iml" />
+>>>>>>> UseCase08
     </modules>
   </component>
 </project>

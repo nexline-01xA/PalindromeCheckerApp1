@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4645c69-f007-4263-bd41-6d5e5159edc1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PalindromeCheckerApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PalindromeCheckerApp/PalindromeCheckerApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PalindromeCheckerApp/PalindromeCheckerApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeCheckerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeCheckerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/K-Ayaan/PalindromeCheckerApp.git",
+    "url": "https://github.com/nexline-01xA/PalindromeCheckerApp1.git",
     "accountId": "8788b25e-fe38-4cac-b5ba-743e86f261ee"
   }
 }]]></component>
@@ -46,8 +41,9 @@
     "Application.UseCase8PalindromeCheckerApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "UseCase01",
+    "git-widget-placeholder": "UseCase08",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>

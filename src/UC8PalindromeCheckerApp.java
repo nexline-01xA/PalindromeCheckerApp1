@@ -1,4 +1,4 @@
-public class PalindromeCheckerApp {
+public class UC8PalindromeCheckerApp {
 
     // Main method - Entry point of the Java program
     public static void main(String[] args) {
